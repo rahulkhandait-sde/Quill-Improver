@@ -1,6 +1,6 @@
-## Quill Improver: AI-powered Code Quality Checker
+## Quill Improver: AI-powered Code Quality Checker with LLMWare
 
-**Quill Improver** assists developers in writing cleaner and more maintainable code by leveraging the power of AI and a customizable knowledge base.
+**Quill Improver** leverages the power of LLMWare, an open-source AI framework developed by AI Bloks, to assist developers in writing cleaner and more maintainable code. It utilizes a customizable knowledge base to identify potential issues and suggest improvements in your code.
 
 ### Purpose
 
@@ -56,4 +56,5 @@ We welcome contributions! Feel free to submit pull requests for bug fixes, featu
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ### See it in action!
-A video demonstration of Quill Improver is available on YouTube: Link to your YouTube video.
+
+A video demonstration of Quill Improver is available on YouTube: [Link to your YouTube video](**link_here**).
