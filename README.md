@@ -56,4 +56,4 @@ We welcome contributions! Feel free to submit pull requests for bug fixes, featu
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ### See it in action!
-A video demonstration of Quill Improver is available on YouTube: Link to your YouTube video.
+A video demonstration of Quill Improver is available on YouTube: 
